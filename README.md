@@ -1,4 +1,4 @@
-[![Testes do banco](https://github.com/JOAOVICTORSOARESDELIMA/biblioteca_universitaria_finalizada/actions/workflows/testes.yml/badge.svg)](https://github.com/JOAOVICTORSOARESDELIMA/biblioteca_universitaria_finalizada/actions/workflows/testes.yml)
+[![Testes do banco](https://github.com/JOAOVICTORSOARESDELIMA/biblioteca_universitaria_finalizada/actions/workflows/testes.yml/badge.svg?branch=master)](https://github.com/JOAOVICTORSOARESDELIMA/biblioteca_universitaria_finalizada/actions/workflows/testes.yml)
 
 # Sistema de Biblioteca Universitária: PostgreSQL
 
